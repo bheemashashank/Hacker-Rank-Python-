@@ -1,2 +1,2 @@
 # Hacker-Rank
-Hacker Rank Solutions
+Hacker Rank Python Solutions

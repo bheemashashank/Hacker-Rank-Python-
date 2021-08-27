@@ -72,4 +72,12 @@ Print Weird if the number is weird. Otherwise, print Not Weird.
                 elif(n>=20):
                     print("Not Weird")
             else:
-                print("Weird")                        
+                print("Weird") 
+
+**Input**
+    
+    3
+
+**My Output**
+
+    Weird
